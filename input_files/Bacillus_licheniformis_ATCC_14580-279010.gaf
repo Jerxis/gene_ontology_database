@@ -1,0 +1,208 @@
+UniProtKB	A4VF87	BL07011		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Uncharacterized protein	BL07011	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A4VF87	BL07011		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Uncharacterized protein	BL07011	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A4VFE7	BL07067		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Uncharacterized protein	BL07067	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A4VFE7	BL07067		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Uncharacterized protein	BL07067	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A636	BL02379		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Uncharacterized protein	BL02379	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A636	BL02379		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Uncharacterized protein	BL02379	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A638	ykcC		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Glyco_trans_2-like domain-containing protein	ykcC|BL01936	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A638	ykcC		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Glyco_trans_2-like domain-containing protein	ykcC|BL01936	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A638	ykcC		GO:0016740	GO_REF:0000038	IEA	UniProtKB-KW:KW-0808	F	Glyco_trans_2-like domain-containing protein	ykcC|BL01936	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A639	lanG		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Lantibiotic immunity protein, MFS type transporter	lanG|BL00935	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A639	lanG		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Lantibiotic immunity protein, MFS type transporter	lanG|BL00935	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A640	yxlD		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	YxlD	yxlD|BL05374	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A640	yxlD		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	YxlD	yxlD|BL05374	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A643	yfiK		GO:0000160	GO_REF:0000002	IEA	InterPro:IPR001789	P	Two-component response regulator	yfiK|BL03899	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A643	yfiK		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR016032	F	Two-component response regulator	yfiK|BL03899	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A643	yfiK		GO:0003677	GO_REF:0000038	IEA	UniProtKB-KW:KW-0238	F	Two-component response regulator	yfiK|BL03899	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A643	yfiK		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR000792|InterPro:IPR016032	P	Two-component response regulator	yfiK|BL03899	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A644	BL03963		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Uncharacterized protein	BL03963	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A644	BL03963		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Uncharacterized protein	BL03963	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A645	yqhB		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	2-oxo acid dehydrogenase, lipoyl-binding site protein	yqhB|BL02455	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A645	yqhB		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	2-oxo acid dehydrogenase, lipoyl-binding site protein	yqhB|BL02455	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A645	yqhB		GO:0016021	GO_REF:0000104	IEA	UniRule:UR000732112	C	2-oxo acid dehydrogenase, lipoyl-binding site protein	yqhB|BL02455	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A645	yqhB		GO:0050660	GO_REF:0000002	IEA	InterPro:IPR036318	F	2-oxo acid dehydrogenase, lipoyl-binding site protein	yqhB|BL02455	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A647	ywtG		GO:0008643	GO_REF:0000038	IEA	UniProtKB-KW:KW-0762	P	MFS domain-containing protein	ywtG|BL02474	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A647	ywtG		GO:0016020	GO_REF:0000002	IEA	InterPro:IPR003663	C	MFS domain-containing protein	ywtG|BL02474	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A647	ywtG		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	MFS domain-containing protein	ywtG|BL02474	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A647	ywtG		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR005828|InterPro:IPR005829	C	MFS domain-containing protein	ywtG|BL02474	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A647	ywtG		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	MFS domain-containing protein	ywtG|BL02474	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A647	ywtG		GO:0022857	GO_REF:0000002	IEA	InterPro:IPR003663|InterPro:IPR005828|InterPro:IPR005829	F	MFS domain-containing protein	ywtG|BL02474	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A647	ywtG		GO:0055085	GO_REF:0000002	IEA	InterPro:IPR003663|InterPro:IPR005828|InterPro:IPR005829	P	MFS domain-containing protein	ywtG|BL02474	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A648	tuaD		GO:0000271	GO_REF:0000002	IEA	InterPro:IPR028357	P	UDP-glucose 6-dehydrogenase	tuaD|BL03352	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A648	tuaD		GO:0003979	GO_REF:0000002	IEA	InterPro:IPR028357	F	UDP-glucose 6-dehydrogenase	tuaD|BL03352	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A648	tuaD		GO:0003979	GO_REF:0000003	IEA	EC:1.1.1.22	F	UDP-glucose 6-dehydrogenase	tuaD|BL03352	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A648	tuaD		GO:0016491	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	F	UDP-glucose 6-dehydrogenase	tuaD|BL03352	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A648	tuaD		GO:0016616	GO_REF:0000002	IEA	InterPro:IPR001732|InterPro:IPR014026|InterPro:IPR014027|InterPro:IPR017476	F	UDP-glucose 6-dehydrogenase	tuaD|BL03352	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A648	tuaD		GO:0051287	GO_REF:0000002	IEA	InterPro:IPR001732|InterPro:IPR014026|InterPro:IPR014027	F	UDP-glucose 6-dehydrogenase	tuaD|BL03352	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A648	tuaD		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR001732|InterPro:IPR008927|InterPro:IPR014026|InterPro:IPR014027|InterPro:IPR017476	P	UDP-glucose 6-dehydrogenase	tuaD|BL03352	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A648	tuaD		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	P	UDP-glucose 6-dehydrogenase	tuaD|BL03352	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A649	tuaF		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	TuaF	tuaF|BL03355	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A649	tuaF		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	TuaF	tuaF|BL03355	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A650	BL03503		GO:0004252	GO_REF:0000002	IEA	InterPro:IPR001907	F	ATP-dependent Clp protease proteolytic subunit	BL03503	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A650	BL03503		GO:0006508	GO_REF:0000002	IEA	InterPro:IPR001907	P	ATP-dependent Clp protease proteolytic subunit	BL03503	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A650	BL03503		GO:0006508	GO_REF:0000038	IEA	UniProtKB-KW:KW-0645	P	ATP-dependent Clp protease proteolytic subunit	BL03503	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A650	BL03503		GO:0008233	GO_REF:0000038	IEA	UniProtKB-KW:KW-0645	F	ATP-dependent Clp protease proteolytic subunit	BL03503	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A651	BL05340		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Uncharacterized protein	BL05340	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A651	BL05340		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Uncharacterized protein	BL05340	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A653	BL02126		GO:0016740	GO_REF:0000038	IEA	UniProtKB-KW:KW-0808	F	Glycos_transf_3 domain-containing protein	BL02126	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A653	BL02126		GO:0016757	GO_REF:0000002	IEA	InterPro:IPR000312	F	Glycos_transf_3 domain-containing protein	BL02126	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A654	yuiB		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Conserved membrane protein YuiB	yuiB|BL03145	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A654	yuiB		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Conserved membrane protein YuiB	yuiB|BL03145	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A657	malS		GO:0004470	GO_REF:0000002	IEA	InterPro:IPR001891	F	Malate dehydrogenase (Decarboxylating)	malS|BL00044	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A657	malS		GO:0004471	GO_REF:0000002	IEA	InterPro:IPR001891|InterPro:IPR012301|InterPro:IPR015884|InterPro:IPR037062	F	Malate dehydrogenase (Decarboxylating)	malS|BL00044	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A657	malS		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Malate dehydrogenase (Decarboxylating)	malS|BL00044	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A657	malS		GO:0051287	GO_REF:0000002	IEA	InterPro:IPR012302	F	Malate dehydrogenase (Decarboxylating)	malS|BL00044	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A657	malS		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR012301|InterPro:IPR015884|InterPro:IPR037062	P	Malate dehydrogenase (Decarboxylating)	malS|BL00044	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A658	icd		GO:0000287	GO_REF:0000002	IEA	InterPro:IPR019818	F	Isocitrate dehydrogenase [NADP]	icd|BL00398	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A658	icd		GO:0004450	GO_REF:0000002	IEA	InterPro:IPR004439	F	Isocitrate dehydrogenase [NADP]	icd|BL00398	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A658	icd		GO:0004450	GO_REF:0000003	IEA	EC:1.1.1.42	F	Isocitrate dehydrogenase [NADP]	icd|BL00398	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A658	icd		GO:0006097	GO_REF:0000038	IEA	UniProtKB-KW:KW-0329	P	Isocitrate dehydrogenase [NADP]	icd|BL00398	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A658	icd		GO:0006099	GO_REF:0000002	IEA	InterPro:IPR004439	P	Isocitrate dehydrogenase [NADP]	icd|BL00398	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A658	icd		GO:0006099	GO_REF:0000038	IEA	UniProtKB-KW:KW-0816	P	Isocitrate dehydrogenase [NADP]	icd|BL00398	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A658	icd		GO:0016616	GO_REF:0000002	IEA	InterPro:IPR019818|InterPro:IPR024084	F	Isocitrate dehydrogenase [NADP]	icd|BL00398	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A658	icd		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Isocitrate dehydrogenase [NADP]	icd|BL00398	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A658	icd		GO:0051287	GO_REF:0000002	IEA	InterPro:IPR019818	F	Isocitrate dehydrogenase [NADP]	icd|BL00398	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A658	icd		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR004439|InterPro:IPR019818|InterPro:IPR024084	P	Isocitrate dehydrogenase [NADP]	icd|BL00398	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A659	spoIIIC		GO:0003700	GO_REF:0000002	IEA	InterPro:IPR000943|InterPro:IPR007630	F	RNA_pol_sigma70 domain-containing protein	spoIIIC|BL05276	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A659	spoIIIC		GO:0006352	GO_REF:0000002	IEA	InterPro:IPR000943|InterPro:IPR007630	P	RNA_pol_sigma70 domain-containing protein	spoIIIC|BL05276	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A659	spoIIIC		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR000943|InterPro:IPR007630	P	RNA_pol_sigma70 domain-containing protein	spoIIIC|BL05276	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A660	holA		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR005790|InterPro:IPR008921|InterPro:IPR010372	F	DNA_pol3_delta domain-containing protein	holA|BL02088	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A660	holA		GO:0003887	GO_REF:0000002	IEA	InterPro:IPR010372	F	DNA_pol3_delta domain-containing protein	holA|BL02088	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A660	holA		GO:0006260	GO_REF:0000002	IEA	InterPro:IPR005790|InterPro:IPR008921|InterPro:IPR010372	P	DNA_pol3_delta domain-containing protein	holA|BL02088	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A660	holA		GO:0009360	GO_REF:0000002	IEA	InterPro:IPR010372	C	DNA_pol3_delta domain-containing protein	holA|BL02088	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A660	holA		GO:0071897	GO_REF:0000108	IEA	GO:0003887	P	DNA_pol3_delta domain-containing protein	holA|BL02088	protein	taxon:279010	20191215	GOC		
+UniProtKB	A5A661	comGD		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Probably part of the DNA transport machinery ComGD	comGD|BL01569	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A661	comGD		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Probably part of the DNA transport machinery ComGD	comGD|BL01569	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A661	comGD		GO:0030420	GO_REF:0000002	IEA	InterPro:IPR016785	P	Probably part of the DNA transport machinery ComGD	comGD|BL01569	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A662	comGF		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Probably part of the DNA transport machinery ComGF	comGF|BL01567	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A662	comGF		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Probably part of the DNA transport machinery ComGF	comGF|BL01567	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A663	yqxK		GO:0003824	GO_REF:0000002	IEA	InterPro:IPR016195	F	Conserved protein YqxK	yqxK|BL02914	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A665	mtrB		GO:0003723	GO_REF:0000002	IEA	InterPro:IPR000824	F	Transcription attenuation protein MtrB	mtrB|BL02785	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A665	mtrB		GO:0003723	GO_REF:0000038	IEA	UniProtKB-KW:KW-0694	F	Transcription attenuation protein MtrB	mtrB|BL02785	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A665	mtrB		GO:0003723	GO_REF:0000104	IEA	UniRule:UR000033380	F	Transcription attenuation protein MtrB	mtrB|BL02785	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A665	mtrB		GO:0006353	GO_REF:0000002	IEA	InterPro:IPR000824	P	Transcription attenuation protein MtrB	mtrB|BL02785	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A665	mtrB		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR000824	P	Transcription attenuation protein MtrB	mtrB|BL02785	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A666	dhaS		GO:0006081	GO_REF:0000002	IEA	InterPro:IPR012394	P	Aldehyde dehydrogenase	dhaS|BL00585	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A666	dhaS		GO:0016491	GO_REF:0000002	IEA	InterPro:IPR015590|InterPro:IPR016161|InterPro:IPR016162|InterPro:IPR016163|InterPro:IPR029510	F	Aldehyde dehydrogenase	dhaS|BL00585	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A666	dhaS		GO:0016491	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	F	Aldehyde dehydrogenase	dhaS|BL00585	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A666	dhaS		GO:0016620	GO_REF:0000002	IEA	InterPro:IPR016163	F	Aldehyde dehydrogenase	dhaS|BL00585	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A666	dhaS		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR012394|InterPro:IPR015590|InterPro:IPR016161|InterPro:IPR016162|InterPro:IPR016163|InterPro:IPR029510	P	Aldehyde dehydrogenase	dhaS|BL00585	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A666	dhaS		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	P	Aldehyde dehydrogenase	dhaS|BL00585	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A667	BL01391		GO:0009847	GO_REF:0000002	IEA	InterPro:IPR008844	P	Spore germination B3 GerAC like protein	BL01391	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A667	BL01391		GO:0016020	GO_REF:0000002	IEA	InterPro:IPR008844	C	Spore germination B3 GerAC like protein	BL01391	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A669	ykoR		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Uncharacterized protein	ykoR|BL01974	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A669	ykoR		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Uncharacterized protein	ykoR|BL01974	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A671	bglC		GO:0000272	GO_REF:0000038	IEA	UniProtKB-KW:KW-0624	P	Endoglucanase	bglC|BL01471	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A671	bglC		GO:0004553	GO_REF:0000002	IEA	InterPro:IPR001547|InterPro:IPR018087	F	Endoglucanase	bglC|BL01471	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A671	bglC		GO:0005975	GO_REF:0000002	IEA	InterPro:IPR001547|InterPro:IPR001956|InterPro:IPR018087|InterPro:IPR036966	P	Endoglucanase	bglC|BL01471	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A671	bglC		GO:0005975	GO_REF:0000038	IEA	UniProtKB-KW:KW-0119	P	Endoglucanase	bglC|BL01471	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A671	bglC		GO:0008152	GO_REF:0000038	IEA	UniProtKB-KW:KW-0326	P	Endoglucanase	bglC|BL01471	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A671	bglC		GO:0008810	GO_REF:0000003	IEA	EC:3.2.1.4	F	Endoglucanase	bglC|BL01471	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A671	bglC		GO:0016787	GO_REF:0000038	IEA	UniProtKB-KW:KW-0378	F	Endoglucanase	bglC|BL01471	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A671	bglC		GO:0016798	GO_REF:0000038	IEA	UniProtKB-KW:KW-0326	F	Endoglucanase	bglC|BL01471	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A671	bglC		GO:0030245	GO_REF:0000038	IEA	UniProtKB-KW:KW-0136	P	Endoglucanase	bglC|BL01471	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A671	bglC		GO:0030246	GO_REF:0000002	IEA	InterPro:IPR008965	F	Endoglucanase	bglC|BL01471	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A671	bglC		GO:0030248	GO_REF:0000002	IEA	InterPro:IPR001956|InterPro:IPR036966	F	Endoglucanase	bglC|BL01471	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A672	BL00462		GO:0016787	GO_REF:0000002	IEA	InterPro:IPR002821	F	Hydantoin utilization protein A	BL00462	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A678	ctaG		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	CtaG	ctaG|BL02984	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A678	ctaG		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	CtaG	ctaG|BL02984	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A679	moeB		GO:0008641	GO_REF:0000002	IEA	InterPro:IPR000594|InterPro:IPR035985	F	ThiF domain-containing protein	moeB|BL00557	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A682	BL03643		GO:0006629	GO_REF:0000002	IEA	InterPro:IPR002921	P	Lipase_3 domain-containing protein	BL03643	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A684	htrA		GO:0004252	GO_REF:0000002	IEA	InterPro:IPR001940	F	PDZ domain-containing protein	htrA|BL03742	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A684	htrA		GO:0006508	GO_REF:0000002	IEA	InterPro:IPR001940	P	PDZ domain-containing protein	htrA|BL03742	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A684	htrA		GO:0006508	GO_REF:0000038	IEA	UniProtKB-KW:KW-0645	P	PDZ domain-containing protein	htrA|BL03742	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A684	htrA		GO:0008233	GO_REF:0000038	IEA	UniProtKB-KW:KW-0645	F	PDZ domain-containing protein	htrA|BL03742	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A684	htrA		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	PDZ domain-containing protein	htrA|BL03742	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A684	htrA		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	PDZ domain-containing protein	htrA|BL03742	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A686	BL01324		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Uncharacterized protein	BL01324	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A686	BL01324		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Uncharacterized protein	BL01324	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A686	BL01324		GO:0055085	GO_REF:0000002	IEA	InterPro:IPR011701	P	Uncharacterized protein	BL01324	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A687	yhjN		GO:0010468	GO_REF:0000002	IEA	InterPro:IPR007820	P	Uncharacterized protein	yhjN|BL01326	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A687	yhjN		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Uncharacterized protein	yhjN|BL01326	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A687	yhjN		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR007820	C	Uncharacterized protein	yhjN|BL01326	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A687	yhjN		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Uncharacterized protein	yhjN|BL01326	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A692	BL02335		GO:0004553	GO_REF:0000002	IEA	InterPro:IPR001360	F	Glycoside Hydrolase Family 1	BL02335	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A692	BL02335		GO:0005975	GO_REF:0000002	IEA	InterPro:IPR001360	P	Glycoside Hydrolase Family 1	BL02335	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A692	BL02335		GO:0008152	GO_REF:0000038	IEA	UniProtKB-KW:KW-0326	P	Glycoside Hydrolase Family 1	BL02335	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A692	BL02335		GO:0016787	GO_REF:0000038	IEA	UniProtKB-KW:KW-0378	F	Glycoside Hydrolase Family 1	BL02335	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A692	BL02335		GO:0016798	GO_REF:0000038	IEA	UniProtKB-KW:KW-0326	F	Glycoside Hydrolase Family 1	BL02335	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A693	BL00596		GO:0003824	GO_REF:0000002	IEA	InterPro:IPR015421	F	Aminotran_5 domain-containing protein	BL00596	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A694	yebA		GO:0006508	GO_REF:0000038	IEA	UniProtKB-KW:KW-0645	P	TGc domain-containing protein	yebA|BL02927	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A694	yebA		GO:0008233	GO_REF:0000038	IEA	UniProtKB-KW:KW-0645	F	TGc domain-containing protein	yebA|BL02927	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A694	yebA		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	TGc domain-containing protein	yebA|BL02927	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A694	yebA		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	TGc domain-containing protein	yebA|BL02927	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A695	BL00478		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR009057	F	HTH araC/xylS-type domain-containing protein	BL00478	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A695	BL00478		GO:0003677	GO_REF:0000038	IEA	UniProtKB-KW:KW-0238	F	HTH araC/xylS-type domain-containing protein	BL00478	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A695	BL00478		GO:0003700	GO_REF:0000002	IEA	InterPro:IPR018060|InterPro:IPR018062|InterPro:IPR020449	F	HTH araC/xylS-type domain-containing protein	BL00478	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A695	BL00478		GO:0006355	GO_REF:0000002	IEA	InterPro:IPR018060|InterPro:IPR018062|InterPro:IPR020449	P	HTH araC/xylS-type domain-containing protein	BL00478	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A695	BL00478		GO:0043565	GO_REF:0000002	IEA	InterPro:IPR018060|InterPro:IPR018062	F	HTH araC/xylS-type domain-containing protein	BL00478	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A696	BL02011		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	MFS domain-containing protein	BL02011	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A696	BL02011		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	MFS domain-containing protein	BL02011	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A696	BL02011		GO:0055085	GO_REF:0000002	IEA	InterPro:IPR011701	P	MFS domain-containing protein	BL02011	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A697	ycnJ		GO:0005507	GO_REF:0000002	IEA	InterPro:IPR007348	F	Putative copper export protein YcnJ	ycnJ|BL01860	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A697	ycnJ		GO:0006825	GO_REF:0000002	IEA	InterPro:IPR032694	P	Putative copper export protein YcnJ	ycnJ|BL01860	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A697	ycnJ		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Putative copper export protein YcnJ	ycnJ|BL01860	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A697	ycnJ		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR008457	C	Putative copper export protein YcnJ	ycnJ|BL01860	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A697	ycnJ		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Putative copper export protein YcnJ	ycnJ|BL01860	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A697	ycnJ		GO:0042597	GO_REF:0000002	IEA	InterPro:IPR007348	C	Putative copper export protein YcnJ	ycnJ|BL01860	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A697	ycnJ		GO:0046688	GO_REF:0000002	IEA	InterPro:IPR007348	P	Putative copper export protein YcnJ	ycnJ|BL01860	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A698	ycnC		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR001647|InterPro:IPR009057	F	HTH tetR-type domain-containing protein	ycnC|BL01853	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A698	ycnC		GO:0003677	GO_REF:0000038	IEA	UniProtKB-KW:KW-0238	F	HTH tetR-type domain-containing protein	ycnC|BL01853	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A698	ycnC		GO:0003677	GO_REF:0000104	IEA	UniRule:UR000414560	F	HTH tetR-type domain-containing protein	ycnC|BL01853	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A699	chi		GO:0004553	GO_REF:0000002	IEA	InterPro:IPR001579|InterPro:IPR003610|InterPro:IPR036573	F	Fibronectin type-III domain-containing protein	chi|BL01685	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A699	chi		GO:0005576	GO_REF:0000002	IEA	InterPro:IPR003610|InterPro:IPR036573	C	Fibronectin type-III domain-containing protein	chi|BL01685	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A699	chi		GO:0005975	GO_REF:0000002	IEA	InterPro:IPR001223|InterPro:IPR001579|InterPro:IPR003610|InterPro:IPR036573	P	Fibronectin type-III domain-containing protein	chi|BL01685	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A699	chi		GO:0008061	GO_REF:0000002	IEA	InterPro:IPR011583	F	Fibronectin type-III domain-containing protein	chi|BL01685	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A699	chi		GO:0008152	GO_REF:0000038	IEA	UniProtKB-KW:KW-0326	P	Fibronectin type-III domain-containing protein	chi|BL01685	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A699	chi		GO:0016787	GO_REF:0000038	IEA	UniProtKB-KW:KW-0378	F	Fibronectin type-III domain-containing protein	chi|BL01685	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A699	chi		GO:0016798	GO_REF:0000038	IEA	UniProtKB-KW:KW-0326	F	Fibronectin type-III domain-containing protein	chi|BL01685	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A699	chi		GO:0030246	GO_REF:0000002	IEA	InterPro:IPR003610|InterPro:IPR036573	F	Fibronectin type-III domain-containing protein	chi|BL01685	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A6A1	glnK		GO:0000166	GO_REF:0000038	IEA	UniProtKB-KW:KW-0547	F	Histidine kinase domain-containing protein	glnK|BL01640	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A1	glnK		GO:0005524	GO_REF:0000038	IEA	UniProtKB-KW:KW-0067	F	Histidine kinase domain-containing protein	glnK|BL01640	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A1	glnK		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Histidine kinase domain-containing protein	glnK|BL01640	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A1	glnK		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Histidine kinase domain-containing protein	glnK|BL01640	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A1	glnK		GO:0016301	GO_REF:0000038	IEA	UniProtKB-KW:KW-0418	F	Histidine kinase domain-containing protein	glnK|BL01640	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A1	glnK		GO:0016310	GO_REF:0000002	IEA	InterPro:IPR004358	P	Histidine kinase domain-containing protein	glnK|BL01640	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A6A1	glnK		GO:0016310	GO_REF:0000038	IEA	UniProtKB-KW:KW-0418	P	Histidine kinase domain-containing protein	glnK|BL01640	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A1	glnK		GO:0016740	GO_REF:0000038	IEA	UniProtKB-KW:KW-0808	F	Histidine kinase domain-containing protein	glnK|BL01640	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A1	glnK		GO:0016772	GO_REF:0000002	IEA	InterPro:IPR004358	F	Histidine kinase domain-containing protein	glnK|BL01640	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A6A3	citS		GO:0000155	GO_REF:0000002	IEA	InterPro:IPR016120	F	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A6A3	citS		GO:0000160	GO_REF:0000002	IEA	InterPro:IPR016120	P	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A6A3	citS		GO:0000166	GO_REF:0000038	IEA	UniProtKB-KW:KW-0547	F	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A3	citS		GO:0004673	GO_REF:0000003	IEA	EC:2.7.13.3	F	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A3	citS		GO:0005524	GO_REF:0000038	IEA	UniProtKB-KW:KW-0067	F	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A3	citS		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A3	citS		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A3	citS		GO:0016301	GO_REF:0000038	IEA	UniProtKB-KW:KW-0418	F	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A3	citS		GO:0016310	GO_REF:0000002	IEA	InterPro:IPR004358	P	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A6A3	citS		GO:0016310	GO_REF:0000038	IEA	UniProtKB-KW:KW-0418	P	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A3	citS		GO:0016740	GO_REF:0000038	IEA	UniProtKB-KW:KW-0808	F	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191214	UniProt		
+UniProtKB	A5A6A3	citS		GO:0016772	GO_REF:0000002	IEA	InterPro:IPR004358|InterPro:IPR016120	F	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191214	InterPro		
+UniProtKB	A5A6A3	citS		GO:0018106	GO_REF:0000108	IEA	GO:0004673	P	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191215	GOC		
+UniProtKB	A5A6A3	citS		GO:0023014	GO_REF:0000108	IEA	GO:0000155	P	Histidine kinase domain-containing protein	citS|BL00910	protein	taxon:279010	20191215	GOC		
+UniProtKB	M1E1G8	purK		GO:0000166	GO_REF:0000038	IEA	UniProtKB-KW:KW-0547	F	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	UniProt		
+UniProtKB	M1E1G8	purK		GO:0000166	GO_REF:0000104	IEA	UniRule:UR000414645	F	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	UniProt		
+UniProtKB	M1E1G8	purK		GO:0004638	GO_REF:0000002	IEA	InterPro:IPR005875	F	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	InterPro		
+UniProtKB	M1E1G8	purK		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR011761|InterPro:IPR013815	F	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	InterPro		
+UniProtKB	M1E1G8	purK		GO:0005524	GO_REF:0000038	IEA	UniProtKB-KW:KW-0067	F	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	UniProt		
+UniProtKB	M1E1G8	purK		GO:0005524	GO_REF:0000104	IEA	UniRule:UR000414645	F	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	UniProt		
+UniProtKB	M1E1G8	purK		GO:0006164	GO_REF:0000038	IEA	UniProtKB-KW:KW-0658	P	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	UniProt		
+UniProtKB	M1E1G8	purK		GO:0006189	GO_REF:0000002	IEA	InterPro:IPR005875	P	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	InterPro		
+UniProtKB	M1E1G8	purK		GO:0006189	GO_REF:0000041	IEA	UniPathway:UPA00074	P	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	UniProt		
+UniProtKB	M1E1G8	purK		GO:0006189	GO_REF:0000104	IEA	UniRule:UR000161642	P	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	UniProt		
+UniProtKB	M1E1G8	purK		GO:0016874	GO_REF:0000038	IEA	UniProtKB-KW:KW-0436	F	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	UniProt		
+UniProtKB	M1E1G8	purK		GO:0034028	GO_REF:0000003	IEA	EC:6.3.4.18	F	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	UniProt		
+UniProtKB	M1E1G8	purK		GO:0034028	GO_REF:0000104	IEA	UniRule:UR000161642	F	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	UniProt		
+UniProtKB	M1E1G8	purK		GO:0046872	GO_REF:0000002	IEA	InterPro:IPR011761	F	N5-carboxyaminoimidazole ribonucleotide synthase	purK|BL01477	protein	taxon:279010	20191214	InterPro		
+UniProtKB	M1E1H1	lanR		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR010982	F	HTH cro/C1-type domain-containing protein	lanR|BL00932	protein	taxon:279010	20191214	InterPro		
+UniProtKB	M1E1H2	maeA		GO:0004470	GO_REF:0000002	IEA	InterPro:IPR001891	F	Malate dehyrogenase isozyme	maeA|BL03976	protein	taxon:279010	20191214	InterPro		
+UniProtKB	M1E1H2	maeA		GO:0004471	GO_REF:0000002	IEA	InterPro:IPR001891|InterPro:IPR012301|InterPro:IPR015884|InterPro:IPR037062	F	Malate dehyrogenase isozyme	maeA|BL03976	protein	taxon:279010	20191214	InterPro		
+UniProtKB	M1E1H2	maeA		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Malate dehyrogenase isozyme	maeA|BL03976	protein	taxon:279010	20191214	UniProt		
+UniProtKB	Q65H43	comEC		GO:0030420	GO_REF:0000002	IEA	InterPro:IPR004797	P	Lactamase_B domain-containing protein	comEC|BL02087	protein	taxon:279010	20191214	InterPro		
+UniProtKB	Q65I00	mecB		GO:0030420	GO_REF:0000038	IEA	UniProtKB-KW:KW-0178	P	Adapter protein MecA	mecB|mecA|BL02227	protein	taxon:279010	20191214	UniProt		
+UniProtKB	Q65I00	mecB		GO:0045808	GO_REF:0000104	IEA	UniRule:UR000030615	P	Adapter protein MecA	mecB|mecA|BL02227	protein	taxon:279010	20191214	UniProt		
+UniProtKB	Q65LB7	mecA		GO:0030420	GO_REF:0000038	IEA	UniProtKB-KW:KW-0178	P	Adapter protein MecA	mecA|BL03330	protein	taxon:279010	20191214	UniProt		
+UniProtKB	Q65LB7	mecA		GO:0045808	GO_REF:0000104	IEA	UniRule:UR000030615	P	Adapter protein MecA	mecA|BL03330	protein	taxon:279010	20191214	UniProt		
+UniProtKB	Q65LN7	comK		GO:0030420	GO_REF:0000002	IEA	InterPro:IPR010461	P	Competence transcription factor ComK	comK|BL01090	protein	taxon:279010	20191214	InterPro		
+UniProtKB	Q8VQ71	comGC		GO:0030420	GO_REF:0000002	IEA	InterPro:IPR016940	P	ComG operon protein 3 homolog	comGC|BL01570|BLi02646	protein	taxon:279010	20191214	InterPro		
+UniProtKB	Q8VQ71	comGC		GO:0030420	GO_REF:0000037	IEA	UniProtKB-KW:KW-0178	P	ComG operon protein 3 homolog	comGC|BL01570|BLi02646	protein	taxon:279010	20191214	UniProt		

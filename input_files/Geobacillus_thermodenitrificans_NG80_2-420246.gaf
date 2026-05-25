@@ -1,0 +1,210 @@
+UniProtKB	A4IJ84	dnaA		GO:0000166	GO_REF:0000037	IEA	UniProtKB-KW:KW-0547	F	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ84	dnaA		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR001957|InterPro:IPR018312	F	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ84	dnaA		GO:0003677	GO_REF:0000037	IEA	UniProtKB-KW:KW-0238	F	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ84	dnaA		GO:0003688	GO_REF:0000002	IEA	InterPro:IPR001957|InterPro:IPR018312	F	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ84	dnaA		GO:0003688	GO_REF:0000104	IEA	UniRule:UR000084164	F	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ84	dnaA		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR001957|InterPro:IPR013159|InterPro:IPR018312	F	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ84	dnaA		GO:0005524	GO_REF:0000037	IEA	UniProtKB-KW:KW-0067	F	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ84	dnaA		GO:0005524	GO_REF:0000104	IEA	UniRule:UR000084164	F	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ84	dnaA		GO:0005737	GO_REF:0000037	IEA	UniProtKB-KW:KW-0963	C	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ84	dnaA		GO:0005737	GO_REF:0000039	IEA	UniProtKB-SubCell:SL-0086	C	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ84	dnaA		GO:0005737	GO_REF:0000104	IEA	UniRule:UR000084164	C	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ84	dnaA		GO:0006260	GO_REF:0000037	IEA	UniProtKB-KW:KW-0235	P	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ84	dnaA		GO:0006270	GO_REF:0000002	IEA	InterPro:IPR001957|InterPro:IPR013159|InterPro:IPR018312	P	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ84	dnaA		GO:0006270	GO_REF:0000104	IEA	UniRule:UR000084164	P	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ84	dnaA		GO:0006275	GO_REF:0000002	IEA	InterPro:IPR001957|InterPro:IPR013159|InterPro:IPR018312	P	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ84	dnaA		GO:0006275	GO_REF:0000104	IEA	UniRule:UR000084164	P	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ84	dnaA		GO:0043565	GO_REF:0000002	IEA	InterPro:IPR010921|InterPro:IPR013159	F	Chromosomal replication initiator protein DnaA	dnaA|GTNG_0001	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ85	GTNG_0002		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR001001|InterPro:IPR022634|InterPro:IPR022635	F	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ85	GTNG_0002		GO:0003677	GO_REF:0000038	IEA	UniProtKB-KW:KW-0238	F	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ85	GTNG_0002		GO:0003677	GO_REF:0000104	IEA	UniRule:UR000017401	F	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ85	GTNG_0002		GO:0003887	GO_REF:0000002	IEA	InterPro:IPR022634|InterPro:IPR022635|InterPro:IPR022637	F	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ85	GTNG_0002		GO:0003887	GO_REF:0000038	IEA	UniProtKB-KW:KW-0239	F	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ85	GTNG_0002		GO:0003887	GO_REF:0000104	IEA	UniRule:UR000017401	F	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ85	GTNG_0002		GO:0005737	GO_REF:0000038	IEA	UniProtKB-KW:KW-0963	C	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ85	GTNG_0002		GO:0005737	GO_REF:0000040	IEA	UniProtKB-SubCell:SL-0086	C	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ85	GTNG_0002		GO:0005737	GO_REF:0000104	IEA	UniRule:UR000017401	C	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ85	GTNG_0002		GO:0006260	GO_REF:0000002	IEA	InterPro:IPR001001|InterPro:IPR022634|InterPro:IPR022635|InterPro:IPR022637	P	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ85	GTNG_0002		GO:0006260	GO_REF:0000038	IEA	UniProtKB-KW:KW-0235	P	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ85	GTNG_0002		GO:0006260	GO_REF:0000104	IEA	UniRule:UR000017401	P	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ85	GTNG_0002		GO:0008408	GO_REF:0000002	IEA	InterPro:IPR022634|InterPro:IPR022635|InterPro:IPR022637	F	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ85	GTNG_0002		GO:0009360	GO_REF:0000002	IEA	InterPro:IPR001001|InterPro:IPR022634|InterPro:IPR022635|InterPro:IPR022637	C	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ85	GTNG_0002		GO:0016740	GO_REF:0000038	IEA	UniProtKB-KW:KW-0808	F	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ85	GTNG_0002		GO:0016779	GO_REF:0000038	IEA	UniProtKB-KW:KW-0548	F	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ85	GTNG_0002		GO:0071897	GO_REF:0000108	IEA	GO:0003887	P	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191215	GOC		
+UniProtKB	A4IJ85	GTNG_0002		GO:0090305	GO_REF:0000108	IEA	GO:0008408	P	Beta sliding clamp	GTNG_0002	protein	taxon:420246	20191215	GOC		
+UniProtKB	A4IJ86	GTNG_0003		GO:0003723	GO_REF:0000002	IEA	InterPro:IPR002942|InterPro:IPR036986	F	S4 RNA-binding domain-containing protein	GTNG_0003	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ86	GTNG_0003		GO:0003723	GO_REF:0000038	IEA	UniProtKB-KW:KW-0694	F	S4 RNA-binding domain-containing protein	GTNG_0003	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0000166	GO_REF:0000037	IEA	UniProtKB-KW:KW-0547	F	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0003677	GO_REF:0000037	IEA	UniProtKB-KW:KW-0238	F	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0003697	GO_REF:0000002	IEA	InterPro:IPR001238|InterPro:IPR018078	F	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ87	recF		GO:0003697	GO_REF:0000104	IEA	UniRule:UR000084138	F	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR001238|InterPro:IPR018078	F	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ87	recF		GO:0005524	GO_REF:0000037	IEA	UniProtKB-KW:KW-0067	F	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0005524	GO_REF:0000104	IEA	UniRule:UR000084138	F	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0005737	GO_REF:0000037	IEA	UniProtKB-KW:KW-0963	C	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0005737	GO_REF:0000039	IEA	UniProtKB-SubCell:SL-0086	C	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0005737	GO_REF:0000104	IEA	UniRule:UR000084138	C	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0006260	GO_REF:0000037	IEA	UniProtKB-KW:KW-0235	P	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0006260	GO_REF:0000104	IEA	UniRule:UR000084138	P	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0006281	GO_REF:0000002	IEA	InterPro:IPR001238|InterPro:IPR018078	P	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ87	recF		GO:0006281	GO_REF:0000037	IEA	UniProtKB-KW:KW-0234	P	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0006281	GO_REF:0000104	IEA	UniRule:UR000084138	P	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0006974	GO_REF:0000037	IEA	UniProtKB-KW:KW-0227	P	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0006974	GO_REF:0000104	IEA	UniRule:UR000084138	P	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0009432	GO_REF:0000037	IEA	UniProtKB-KW:KW-0742	P	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ87	recF		GO:0009432	GO_REF:0000104	IEA	UniRule:UR000084138	P	DNA replication and repair protein RecF	recF|GTNG_0004	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0000166	GO_REF:0000038	IEA	UniProtKB-KW:KW-0547	F	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR000565|InterPro:IPR001241|InterPro:IPR002288|InterPro:IPR011557|InterPro:IPR013506|InterPro:IPR013759|InterPro:IPR018522	F	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ88	gyrB		GO:0003677	GO_REF:0000038	IEA	UniProtKB-KW:KW-0238	F	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0003916	GO_REF:0000038	IEA	UniProtKB-KW:KW-0799	F	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0003918	GO_REF:0000002	IEA	InterPro:IPR000565|InterPro:IPR001241|InterPro:IPR002288|InterPro:IPR011557|InterPro:IPR013506|InterPro:IPR013759|InterPro:IPR013760|InterPro:IPR018522	F	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ88	gyrB		GO:0003918	GO_REF:0000003	IEA	EC:5.6.2.2	F	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0003918	GO_REF:0000104	IEA	UniRule:UR000056593	F	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR000565|InterPro:IPR001241|InterPro:IPR002288|InterPro:IPR011557|InterPro:IPR013506|InterPro:IPR013759|InterPro:IPR013760|InterPro:IPR018522	F	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ88	gyrB		GO:0005524	GO_REF:0000038	IEA	UniProtKB-KW:KW-0067	F	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0005524	GO_REF:0000104	IEA	UniRule:UR000056593	F	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0005694	GO_REF:0000002	IEA	InterPro:IPR011557	C	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ88	gyrB		GO:0005737	GO_REF:0000038	IEA	UniProtKB-KW:KW-0963	C	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0005737	GO_REF:0000040	IEA	UniProtKB-SubCell:SL-0086	C	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0005737	GO_REF:0000104	IEA	UniRule:UR000056593	C	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0006261	GO_REF:0000104	IEA	UniRule:UR000056593	P	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0006265	GO_REF:0000002	IEA	InterPro:IPR000565|InterPro:IPR001241|InterPro:IPR002288|InterPro:IPR011557|InterPro:IPR013506|InterPro:IPR013759|InterPro:IPR018522	P	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ88	gyrB		GO:0006265	GO_REF:0000104	IEA	UniRule:UR000056593	P	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0016853	GO_REF:0000038	IEA	UniProtKB-KW:KW-0413	F	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ88	gyrB		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	DNA gyrase subunit B	gyrB|GTNG_0005	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0000166	GO_REF:0000038	IEA	UniProtKB-KW:KW-0547	F	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR002205|InterPro:IPR005743|InterPro:IPR006691|InterPro:IPR013757|InterPro:IPR013758	F	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ89	gyrA		GO:0003677	GO_REF:0000038	IEA	UniProtKB-KW:KW-0238	F	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0003677	GO_REF:0000104	IEA	UniRule:UR000087086	F	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0003916	GO_REF:0000002	IEA	InterPro:IPR006691	F	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ89	gyrA		GO:0003916	GO_REF:0000038	IEA	UniProtKB-KW:KW-0799	F	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0003918	GO_REF:0000002	IEA	InterPro:IPR002205|InterPro:IPR005743|InterPro:IPR013757|InterPro:IPR013758|InterPro:IPR013760	F	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ89	gyrA		GO:0003918	GO_REF:0000003	IEA	EC:5.6.2.2	F	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0003918	GO_REF:0000104	IEA	UniRule:UR000087086	F	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR002205|InterPro:IPR005743|InterPro:IPR006691|InterPro:IPR013757|InterPro:IPR013758|InterPro:IPR013760	F	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ89	gyrA		GO:0005524	GO_REF:0000038	IEA	UniProtKB-KW:KW-0067	F	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0005524	GO_REF:0000104	IEA	UniRule:UR000087086	F	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0005694	GO_REF:0000002	IEA	InterPro:IPR005743	C	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ89	gyrA		GO:0005737	GO_REF:0000038	IEA	UniProtKB-KW:KW-0963	C	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0005737	GO_REF:0000040	IEA	UniProtKB-SubCell:SL-0086	C	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0005737	GO_REF:0000104	IEA	UniRule:UR000087086	C	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0006259	GO_REF:0000002	IEA	InterPro:IPR013758	P	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ89	gyrA		GO:0006261	GO_REF:0000104	IEA	UniRule:UR000087086	P	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0006265	GO_REF:0000002	IEA	InterPro:IPR002205|InterPro:IPR005743|InterPro:IPR006691|InterPro:IPR013758	P	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ89	gyrA		GO:0006265	GO_REF:0000104	IEA	UniRule:UR000087086	P	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ89	gyrA		GO:0016853	GO_REF:0000038	IEA	UniProtKB-KW:KW-0413	F	DNA gyrase subunit A	gyrA|GTNG_0006	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ92	guaB		GO:0000166	GO_REF:0000104	IEA	UniRule:UR000331345	F	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ92	guaB		GO:0003824	GO_REF:0000002	IEA	InterPro:IPR001093|InterPro:IPR013785	F	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ92	guaB		GO:0003938	GO_REF:0000002	IEA	InterPro:IPR005990	F	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ92	guaB		GO:0003938	GO_REF:0000003	IEA	EC:1.1.1.205	F	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ92	guaB		GO:0003938	GO_REF:0000104	IEA	UniRule:UR000331345	F	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ92	guaB		GO:0006164	GO_REF:0000002	IEA	InterPro:IPR005990	P	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ92	guaB		GO:0006164	GO_REF:0000038	IEA	UniProtKB-KW:KW-0658	P	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ92	guaB		GO:0006177	GO_REF:0000038	IEA	UniProtKB-KW:KW-0332	P	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ92	guaB		GO:0006177	GO_REF:0000104	IEA	UniRule:UR000331345	P	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ92	guaB		GO:0016491	GO_REF:0000002	IEA	InterPro:IPR015875	F	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ92	guaB		GO:0016491	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	F	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ92	guaB		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ92	guaB		GO:0046872	GO_REF:0000104	IEA	UniRule:UR000331345	F	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ92	guaB		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR001093|InterPro:IPR005990|InterPro:IPR015875	P	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ92	guaB		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	P	Inosine-5'-monophosphate dehydrogenase	guaB|GTNG_0009	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ93	GTNG_0010		GO:0004180	GO_REF:0000002	IEA	InterPro:IPR015956	F	PBP5_C domain-containing protein	GTNG_0010	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ93	GTNG_0010		GO:0004180	GO_REF:0000038	IEA	UniProtKB-KW:KW-0121	F	PBP5_C domain-containing protein	GTNG_0010	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ93	GTNG_0010		GO:0006508	GO_REF:0000002	IEA	InterPro:IPR001967|InterPro:IPR012907|InterPro:IPR015956|InterPro:IPR018044|InterPro:IPR037167	P	PBP5_C domain-containing protein	GTNG_0010	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ93	GTNG_0010		GO:0009002	GO_REF:0000002	IEA	InterPro:IPR001967|InterPro:IPR012907|InterPro:IPR018044|InterPro:IPR037167	F	PBP5_C domain-containing protein	GTNG_0010	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ94	pdxS		GO:0003824	GO_REF:0000002	IEA	InterPro:IPR011060|InterPro:IPR013785	F	Pyridoxal 5'-phosphate synthase subunit PdxS	pdxS|GTNG_0011	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ94	pdxS		GO:0016829	GO_REF:0000037	IEA	UniProtKB-KW:KW-0456	F	Pyridoxal 5'-phosphate synthase subunit PdxS	pdxS|GTNG_0011	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ94	pdxS		GO:0036381	GO_REF:0000003	IEA	EC:4.3.3.6	F	Pyridoxal 5'-phosphate synthase subunit PdxS	pdxS|GTNG_0011	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ94	pdxS		GO:0036381	GO_REF:0000104	IEA	UniRule:UR000001432	F	Pyridoxal 5'-phosphate synthase subunit PdxS	pdxS|GTNG_0011	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ94	pdxS		GO:0042819	GO_REF:0000002	IEA	InterPro:IPR001852	P	Pyridoxal 5'-phosphate synthase subunit PdxS	pdxS|GTNG_0011	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ94	pdxS		GO:0042823	GO_REF:0000002	IEA	InterPro:IPR001852	P	Pyridoxal 5'-phosphate synthase subunit PdxS	pdxS|GTNG_0011	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ94	pdxS		GO:0042823	GO_REF:0000041	IEA	UniPathway:UPA00245	P	Pyridoxal 5'-phosphate synthase subunit PdxS	pdxS|GTNG_0011	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ94	pdxS		GO:0042823	GO_REF:0000104	IEA	UniRule:UR000001432	P	Pyridoxal 5'-phosphate synthase subunit PdxS	pdxS|GTNG_0011	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ95	pdxT		GO:0004359	GO_REF:0000002	IEA	InterPro:IPR002161	F	Pyridoxal 5'-phosphate synthase subunit PdxT	pdxT|GTNG_0012	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ95	pdxT		GO:0004359	GO_REF:0000003	IEA	EC:3.5.1.2	F	Pyridoxal 5'-phosphate synthase subunit PdxT	pdxT|GTNG_0012	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ95	pdxT		GO:0004359	GO_REF:0000104	IEA	UniRule:UR000079265	F	Pyridoxal 5'-phosphate synthase subunit PdxT	pdxT|GTNG_0012	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ95	pdxT		GO:0006541	GO_REF:0000037	IEA	UniProtKB-KW:KW-0315	P	Pyridoxal 5'-phosphate synthase subunit PdxT	pdxT|GTNG_0012	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ95	pdxT		GO:0006543	GO_REF:0000104	IEA	UniRule:UR000079265	P	Pyridoxal 5'-phosphate synthase subunit PdxT	pdxT|GTNG_0012	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ95	pdxT		GO:0016787	GO_REF:0000037	IEA	UniProtKB-KW:KW-0378	F	Pyridoxal 5'-phosphate synthase subunit PdxT	pdxT|GTNG_0012	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ95	pdxT		GO:0016829	GO_REF:0000037	IEA	UniProtKB-KW:KW-0456	F	Pyridoxal 5'-phosphate synthase subunit PdxT	pdxT|GTNG_0012	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ95	pdxT		GO:0036381	GO_REF:0000003	IEA	EC:4.3.3.6	F	Pyridoxal 5'-phosphate synthase subunit PdxT	pdxT|GTNG_0012	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ95	pdxT		GO:0036381	GO_REF:0000104	IEA	UniRule:UR000079265	F	Pyridoxal 5'-phosphate synthase subunit PdxT	pdxT|GTNG_0012	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ95	pdxT		GO:0042819	GO_REF:0000002	IEA	InterPro:IPR002161	P	Pyridoxal 5'-phosphate synthase subunit PdxT	pdxT|GTNG_0012	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ95	pdxT		GO:0042823	GO_REF:0000002	IEA	InterPro:IPR002161	P	Pyridoxal 5'-phosphate synthase subunit PdxT	pdxT|GTNG_0012	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ95	pdxT		GO:0042823	GO_REF:0000041	IEA	UniPathway:UPA00245	P	Pyridoxal 5'-phosphate synthase subunit PdxT	pdxT|GTNG_0012	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ95	pdxT		GO:0042823	GO_REF:0000104	IEA	UniRule:UR000079265	P	Pyridoxal 5'-phosphate synthase subunit PdxT	pdxT|GTNG_0012	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0000166	GO_REF:0000002	IEA	InterPro:IPR002314|InterPro:IPR002317|InterPro:IPR010978	F	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ96	serS		GO:0000166	GO_REF:0000037	IEA	UniProtKB-KW:KW-0547	F	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0004812	GO_REF:0000002	IEA	InterPro:IPR002314	F	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ96	serS		GO:0004812	GO_REF:0000037	IEA	UniProtKB-KW:KW-0030	F	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0004828	GO_REF:0000002	IEA	InterPro:IPR002317	F	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ96	serS		GO:0004828	GO_REF:0000003	IEA	EC:6.1.1.11	F	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0004828	GO_REF:0000104	IEA	UniRule:UR000079193	F	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR002314|InterPro:IPR002317	F	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ96	serS		GO:0005524	GO_REF:0000037	IEA	UniProtKB-KW:KW-0067	F	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0005524	GO_REF:0000104	IEA	UniRule:UR000079193	F	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0005737	GO_REF:0000037	IEA	UniProtKB-KW:KW-0963	C	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0005737	GO_REF:0000039	IEA	UniProtKB-SubCell:SL-0086	C	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0005737	GO_REF:0000104	IEA	UniRule:UR000079193	C	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0006412	GO_REF:0000037	IEA	UniProtKB-KW:KW-0648	P	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0006418	GO_REF:0000002	IEA	InterPro:IPR002314	P	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ96	serS		GO:0006434	GO_REF:0000002	IEA	InterPro:IPR002317	P	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ96	serS		GO:0006434	GO_REF:0000104	IEA	UniRule:UR000079193	P	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0016260	GO_REF:0000104	IEA	UniRule:UR000079193	P	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0016874	GO_REF:0000037	IEA	UniProtKB-KW:KW-0436	F	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ96	serS		GO:0097056	GO_REF:0000041	IEA	UniPathway:UPA00906	P	Serine--tRNA ligase	serS|GTNG_0013	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ97	GTNG_0014		GO:0005975	GO_REF:0000002	IEA	InterPro:IPR001223	P	Spore peptidoglycan hydrolase, N-acetylglucosaminidase	GTNG_0014	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ97	GTNG_0014		GO:0008061	GO_REF:0000002	IEA	InterPro:IPR011583	F	Spore peptidoglycan hydrolase, N-acetylglucosaminidase	GTNG_0014	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ97	GTNG_0014		GO:0016787	GO_REF:0000038	IEA	UniProtKB-KW:KW-0378	F	Spore peptidoglycan hydrolase, N-acetylglucosaminidase	GTNG_0014	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ98	tadA		GO:0002100	GO_REF:0000002	IEA	InterPro:IPR028883	P	tRNA-specific adenosine deaminase	tadA|GTNG_0015	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ98	tadA		GO:0002100	GO_REF:0000104	IEA	UniRule:UR000112792	P	tRNA-specific adenosine deaminase	tadA|GTNG_0015	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ98	tadA		GO:0003824	GO_REF:0000002	IEA	InterPro:IPR016193	F	tRNA-specific adenosine deaminase	tadA|GTNG_0015	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ98	tadA		GO:0008033	GO_REF:0000038	IEA	UniProtKB-KW:KW-0819	P	tRNA-specific adenosine deaminase	tadA|GTNG_0015	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ98	tadA		GO:0008251	GO_REF:0000002	IEA	InterPro:IPR028883	F	tRNA-specific adenosine deaminase	tadA|GTNG_0015	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ98	tadA		GO:0008270	GO_REF:0000002	IEA	InterPro:IPR016192	F	tRNA-specific adenosine deaminase	tadA|GTNG_0015	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ98	tadA		GO:0008270	GO_REF:0000104	IEA	UniRule:UR000112792	F	tRNA-specific adenosine deaminase	tadA|GTNG_0015	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ98	tadA		GO:0016787	GO_REF:0000002	IEA	InterPro:IPR016192	F	tRNA-specific adenosine deaminase	tadA|GTNG_0015	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ98	tadA		GO:0016787	GO_REF:0000038	IEA	UniProtKB-KW:KW-0378	F	tRNA-specific adenosine deaminase	tadA|GTNG_0015	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ98	tadA		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	tRNA-specific adenosine deaminase	tadA|GTNG_0015	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ98	tadA		GO:0052717	GO_REF:0000104	IEA	UniRule:UR000112792	F	tRNA-specific adenosine deaminase	tadA|GTNG_0015	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ99	dnaZX		GO:0000166	GO_REF:0000038	IEA	UniProtKB-KW:KW-0547	F	DNA polymerase III subunit gamma/tau	dnaZX|dnaX|GTNG_0016	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ99	dnaZX		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR008921	F	DNA polymerase III subunit gamma/tau	dnaZX|dnaX|GTNG_0016	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ99	dnaZX		GO:0003887	GO_REF:0000002	IEA	InterPro:IPR012763|InterPro:IPR022754	F	DNA polymerase III subunit gamma/tau	dnaZX|dnaX|GTNG_0016	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ99	dnaZX		GO:0003887	GO_REF:0000003	IEA	EC:2.7.7.7	F	DNA polymerase III subunit gamma/tau	dnaZX|dnaX|GTNG_0016	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ99	dnaZX		GO:0003887	GO_REF:0000038	IEA	UniProtKB-KW:KW-0239	F	DNA polymerase III subunit gamma/tau	dnaZX|dnaX|GTNG_0016	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ99	dnaZX		GO:0005524	GO_REF:0000002	IEA	InterPro:IPR001270|InterPro:IPR012763	F	DNA polymerase III subunit gamma/tau	dnaZX|dnaX|GTNG_0016	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ99	dnaZX		GO:0005524	GO_REF:0000038	IEA	UniProtKB-KW:KW-0067	F	DNA polymerase III subunit gamma/tau	dnaZX|dnaX|GTNG_0016	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ99	dnaZX		GO:0006260	GO_REF:0000002	IEA	InterPro:IPR008921|InterPro:IPR012763	P	DNA polymerase III subunit gamma/tau	dnaZX|dnaX|GTNG_0016	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ99	dnaZX		GO:0006260	GO_REF:0000038	IEA	UniProtKB-KW:KW-0235	P	DNA polymerase III subunit gamma/tau	dnaZX|dnaX|GTNG_0016	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ99	dnaZX		GO:0009360	GO_REF:0000002	IEA	InterPro:IPR012763	C	DNA polymerase III subunit gamma/tau	dnaZX|dnaX|GTNG_0016	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJ99	dnaZX		GO:0016740	GO_REF:0000038	IEA	UniProtKB-KW:KW-0808	F	DNA polymerase III subunit gamma/tau	dnaZX|dnaX|GTNG_0016	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ99	dnaZX		GO:0016779	GO_REF:0000038	IEA	UniProtKB-KW:KW-0548	F	DNA polymerase III subunit gamma/tau	dnaZX|dnaX|GTNG_0016	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJ99	dnaZX		GO:0071897	GO_REF:0000108	IEA	GO:0003887	P	DNA polymerase III subunit gamma/tau	dnaZX|dnaX|GTNG_0016	protein	taxon:420246	20191215	GOC		
+UniProtKB	A4IJA0	GTNG_0017		GO:0003677	GO_REF:0000037	IEA	UniProtKB-KW:KW-0238	F	Nucleoid-associated protein GTNG_0017	GTNG_0017	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJA0	GTNG_0017		GO:0003677	GO_REF:0000104	IEA	UniRule:UR000034428	F	Nucleoid-associated protein GTNG_0017	GTNG_0017	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJA0	GTNG_0017		GO:0005737	GO_REF:0000037	IEA	UniProtKB-KW:KW-0963	C	Nucleoid-associated protein GTNG_0017	GTNG_0017	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJA0	GTNG_0017		GO:0005737	GO_REF:0000104	IEA	UniRule:UR000034428	C	Nucleoid-associated protein GTNG_0017	GTNG_0017	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJA0	GTNG_0017		GO:0009295	GO_REF:0000039	IEA	UniProtKB-SubCell:SL-0187	C	Nucleoid-associated protein GTNG_0017	GTNG_0017	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJA0	GTNG_0017		GO:0043590	GO_REF:0000104	IEA	UniRule:UR000034428	C	Nucleoid-associated protein GTNG_0017	GTNG_0017	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJA1	recR		GO:0003677	GO_REF:0000002	IEA	InterPro:IPR000093	F	Recombination protein RecR	recR|GTNG_0018	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJA1	recR		GO:0003677	GO_REF:0000104	IEA	UniRule:UR000163906	F	Recombination protein RecR	recR|GTNG_0018	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJA1	recR		GO:0006281	GO_REF:0000002	IEA	InterPro:IPR000093|InterPro:IPR015967	P	Recombination protein RecR	recR|GTNG_0018	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJA1	recR		GO:0006281	GO_REF:0000037	IEA	UniProtKB-KW:KW-0234	P	Recombination protein RecR	recR|GTNG_0018	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJA1	recR		GO:0006281	GO_REF:0000104	IEA	UniRule:UR000163906	P	Recombination protein RecR	recR|GTNG_0018	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJA1	recR		GO:0006310	GO_REF:0000002	IEA	InterPro:IPR000093|InterPro:IPR015967	P	Recombination protein RecR	recR|GTNG_0018	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IJA1	recR		GO:0006310	GO_REF:0000037	IEA	UniProtKB-KW:KW-0233	P	Recombination protein RecR	recR|GTNG_0018	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJA1	recR		GO:0006310	GO_REF:0000104	IEA	UniRule:UR000163906	P	Recombination protein RecR	recR|GTNG_0018	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJA1	recR		GO:0006974	GO_REF:0000037	IEA	UniProtKB-KW:KW-0227	P	Recombination protein RecR	recR|GTNG_0018	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJA1	recR		GO:0046872	GO_REF:0000037	IEA	UniProtKB-KW:KW-0479	F	Recombination protein RecR	recR|GTNG_0018	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IJA3	GTNG_0020		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Inhibitor of the pro-sigma K processing machinery	GTNG_0020	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IKW3	GTNG_0585		GO:0030420	GO_REF:0000002	IEA	InterPro:IPR010461	P	Competence transcription factor CTF	GTNG_0585	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IL75	mecA		GO:0030420	GO_REF:0000038	IEA	UniProtKB-KW:KW-0178	P	Adapter protein MecA	mecA|GTNG_0699	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IL75	mecA		GO:0045808	GO_REF:0000104	IEA	UniRule:UR000030615	P	Adapter protein MecA	mecA|GTNG_0699	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IQB7	mecA		GO:0030420	GO_REF:0000038	IEA	UniProtKB-KW:KW-0178	P	Adapter protein MecA	mecA|GTNG_2172	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IQB7	mecA		GO:0045808	GO_REF:0000104	IEA	UniRule:UR000030615	P	Adapter protein MecA	mecA|GTNG_2172	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IQW2	GTNG_2371		GO:0030420	GO_REF:0000002	IEA	InterPro:IPR016785	P	ComG operon protein 4	GTNG_2371	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IQW3	GTNG_2372		GO:0030420	GO_REF:0000002	IEA	InterPro:IPR016940	P	ComG operon protein 3	GTNG_2372	protein	taxon:420246	20191214	InterPro		
+UniProtKB	A4IQW3	GTNG_2372		GO:0030420	GO_REF:0000038	IEA	UniProtKB-KW:KW-0178	P	ComG operon protein 3	GTNG_2372	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IQW3	GTNG_2372		GO:0030420	GO_REF:0000104	IEA	UniRule:UR000273307	P	ComG operon protein 3	GTNG_2372	protein	taxon:420246	20191214	UniProt		
+UniProtKB	A4IR42	comEC		GO:0030420	GO_REF:0000002	IEA	InterPro:IPR004797	P	Lactamase_B domain-containing protein	comEC|GTNG_2451	protein	taxon:420246	20191214	InterPro		

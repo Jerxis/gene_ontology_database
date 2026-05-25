@@ -1,0 +1,211 @@
+UniProtKB	A0A386HYH7	COI		GO:0004129	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	InterPro		
+UniProtKB	A0A386HYH7	COI		GO:0004129	GO_REF:0000003	IEA	EC:1.9.3.1	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	UniProt		
+UniProtKB	A0A386HYH7	COI		GO:0005739	GO_REF:0000038	IEA	UniProtKB-KW:KW-0496	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	UniProt		
+UniProtKB	A0A386HYH7	COI		GO:0005743	GO_REF:0000038	IEA	UniProtKB-KW:KW-0999	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	UniProt		
+UniProtKB	A0A386HYH7	COI		GO:0005743	GO_REF:0000040	IEA	UniProtKB-SubCell:SL-0168	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	UniProt		
+UniProtKB	A0A386HYH7	COI		GO:0006119	GO_REF:0000041	IEA	UniPathway:UPA00705	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	UniProt		
+UniProtKB	A0A386HYH7	COI		GO:0009060	GO_REF:0000002	IEA	InterPro:IPR000883	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	InterPro		
+UniProtKB	A0A386HYH7	COI		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	UniProt		
+UniProtKB	A0A386HYH7	COI		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR000883	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	InterPro		
+UniProtKB	A0A386HYH7	COI		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	UniProt		
+UniProtKB	A0A386HYH7	COI		GO:0016491	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	UniProt		
+UniProtKB	A0A386HYH7	COI		GO:0020037	GO_REF:0000002	IEA	InterPro:IPR000883	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	InterPro		
+UniProtKB	A0A386HYH7	COI		GO:0022900	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191215	GOC		
+UniProtKB	A0A386HYH7	COI		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	UniProt		
+UniProtKB	A0A386HYH7	COI		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616|InterPro:IPR036927	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	InterPro		
+UniProtKB	A0A386HYH7	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0249	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	UniProt		
+UniProtKB	A0A386HYH7	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	UniProt		
+UniProtKB	A0A386HYH7	COI		GO:0070469	GO_REF:0000038	IEA	UniProtKB-KW:KW-0679	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191214	UniProt		
+UniProtKB	A0A386HYH7	COI		GO:1902600	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359098	20191215	GOC		
+UniProtKB	A0A386I0Y7	COI		GO:0004129	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	InterPro		
+UniProtKB	A0A386I0Y7	COI		GO:0004129	GO_REF:0000003	IEA	EC:1.9.3.1	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	UniProt		
+UniProtKB	A0A386I0Y7	COI		GO:0005739	GO_REF:0000038	IEA	UniProtKB-KW:KW-0496	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	UniProt		
+UniProtKB	A0A386I0Y7	COI		GO:0005743	GO_REF:0000038	IEA	UniProtKB-KW:KW-0999	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	UniProt		
+UniProtKB	A0A386I0Y7	COI		GO:0005743	GO_REF:0000040	IEA	UniProtKB-SubCell:SL-0168	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	UniProt		
+UniProtKB	A0A386I0Y7	COI		GO:0006119	GO_REF:0000041	IEA	UniPathway:UPA00705	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	UniProt		
+UniProtKB	A0A386I0Y7	COI		GO:0009060	GO_REF:0000002	IEA	InterPro:IPR000883	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	InterPro		
+UniProtKB	A0A386I0Y7	COI		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	UniProt		
+UniProtKB	A0A386I0Y7	COI		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR000883	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	InterPro		
+UniProtKB	A0A386I0Y7	COI		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	UniProt		
+UniProtKB	A0A386I0Y7	COI		GO:0016491	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	UniProt		
+UniProtKB	A0A386I0Y7	COI		GO:0020037	GO_REF:0000002	IEA	InterPro:IPR000883	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	InterPro		
+UniProtKB	A0A386I0Y7	COI		GO:0022900	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191215	GOC		
+UniProtKB	A0A386I0Y7	COI		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	UniProt		
+UniProtKB	A0A386I0Y7	COI		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616|InterPro:IPR036927	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	InterPro		
+UniProtKB	A0A386I0Y7	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0249	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	UniProt		
+UniProtKB	A0A386I0Y7	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	UniProt		
+UniProtKB	A0A386I0Y7	COI		GO:0070469	GO_REF:0000038	IEA	UniProtKB-KW:KW-0679	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191214	UniProt		
+UniProtKB	A0A386I0Y7	COI		GO:1902600	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359097	20191215	GOC		
+UniProtKB	A0A386I1L4	COI		GO:0004129	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	InterPro		
+UniProtKB	A0A386I1L4	COI		GO:0004129	GO_REF:0000003	IEA	EC:1.9.3.1	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	UniProt		
+UniProtKB	A0A386I1L4	COI		GO:0005739	GO_REF:0000038	IEA	UniProtKB-KW:KW-0496	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	UniProt		
+UniProtKB	A0A386I1L4	COI		GO:0005743	GO_REF:0000038	IEA	UniProtKB-KW:KW-0999	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	UniProt		
+UniProtKB	A0A386I1L4	COI		GO:0005743	GO_REF:0000040	IEA	UniProtKB-SubCell:SL-0168	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	UniProt		
+UniProtKB	A0A386I1L4	COI		GO:0006119	GO_REF:0000041	IEA	UniPathway:UPA00705	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	UniProt		
+UniProtKB	A0A386I1L4	COI		GO:0009060	GO_REF:0000002	IEA	InterPro:IPR000883	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	InterPro		
+UniProtKB	A0A386I1L4	COI		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	UniProt		
+UniProtKB	A0A386I1L4	COI		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR000883	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	InterPro		
+UniProtKB	A0A386I1L4	COI		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	UniProt		
+UniProtKB	A0A386I1L4	COI		GO:0016491	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	UniProt		
+UniProtKB	A0A386I1L4	COI		GO:0020037	GO_REF:0000002	IEA	InterPro:IPR000883	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	InterPro		
+UniProtKB	A0A386I1L4	COI		GO:0022900	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191215	GOC		
+UniProtKB	A0A386I1L4	COI		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	UniProt		
+UniProtKB	A0A386I1L4	COI		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616|InterPro:IPR036927	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	InterPro		
+UniProtKB	A0A386I1L4	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0249	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	UniProt		
+UniProtKB	A0A386I1L4	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	UniProt		
+UniProtKB	A0A386I1L4	COI		GO:0070469	GO_REF:0000038	IEA	UniProtKB-KW:KW-0679	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191214	UniProt		
+UniProtKB	A0A386I1L4	COI		GO:1902600	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359090	20191215	GOC		
+UniProtKB	A0A386I8G1	COI		GO:0004129	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	InterPro		
+UniProtKB	A0A386I8G1	COI		GO:0004129	GO_REF:0000003	IEA	EC:1.9.3.1	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	UniProt		
+UniProtKB	A0A386I8G1	COI		GO:0005739	GO_REF:0000038	IEA	UniProtKB-KW:KW-0496	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	UniProt		
+UniProtKB	A0A386I8G1	COI		GO:0005743	GO_REF:0000038	IEA	UniProtKB-KW:KW-0999	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	UniProt		
+UniProtKB	A0A386I8G1	COI		GO:0005743	GO_REF:0000040	IEA	UniProtKB-SubCell:SL-0168	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	UniProt		
+UniProtKB	A0A386I8G1	COI		GO:0006119	GO_REF:0000041	IEA	UniPathway:UPA00705	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	UniProt		
+UniProtKB	A0A386I8G1	COI		GO:0009060	GO_REF:0000002	IEA	InterPro:IPR000883	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	InterPro		
+UniProtKB	A0A386I8G1	COI		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	UniProt		
+UniProtKB	A0A386I8G1	COI		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR000883	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	InterPro		
+UniProtKB	A0A386I8G1	COI		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	UniProt		
+UniProtKB	A0A386I8G1	COI		GO:0016491	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	UniProt		
+UniProtKB	A0A386I8G1	COI		GO:0020037	GO_REF:0000002	IEA	InterPro:IPR000883	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	InterPro		
+UniProtKB	A0A386I8G1	COI		GO:0022900	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191215	GOC		
+UniProtKB	A0A386I8G1	COI		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	UniProt		
+UniProtKB	A0A386I8G1	COI		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616|InterPro:IPR036927	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	InterPro		
+UniProtKB	A0A386I8G1	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0249	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	UniProt		
+UniProtKB	A0A386I8G1	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	UniProt		
+UniProtKB	A0A386I8G1	COI		GO:0070469	GO_REF:0000038	IEA	UniProtKB-KW:KW-0679	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191214	UniProt		
+UniProtKB	A0A386I8G1	COI		GO:1902600	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359092	20191215	GOC		
+UniProtKB	A0A386IAV7	COI		GO:0004129	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	InterPro		
+UniProtKB	A0A386IAV7	COI		GO:0004129	GO_REF:0000003	IEA	EC:1.9.3.1	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	UniProt		
+UniProtKB	A0A386IAV7	COI		GO:0005739	GO_REF:0000038	IEA	UniProtKB-KW:KW-0496	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	UniProt		
+UniProtKB	A0A386IAV7	COI		GO:0005743	GO_REF:0000038	IEA	UniProtKB-KW:KW-0999	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	UniProt		
+UniProtKB	A0A386IAV7	COI		GO:0005743	GO_REF:0000040	IEA	UniProtKB-SubCell:SL-0168	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	UniProt		
+UniProtKB	A0A386IAV7	COI		GO:0006119	GO_REF:0000041	IEA	UniPathway:UPA00705	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	UniProt		
+UniProtKB	A0A386IAV7	COI		GO:0009060	GO_REF:0000002	IEA	InterPro:IPR000883	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	InterPro		
+UniProtKB	A0A386IAV7	COI		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	UniProt		
+UniProtKB	A0A386IAV7	COI		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR000883	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	InterPro		
+UniProtKB	A0A386IAV7	COI		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	UniProt		
+UniProtKB	A0A386IAV7	COI		GO:0016491	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	UniProt		
+UniProtKB	A0A386IAV7	COI		GO:0020037	GO_REF:0000002	IEA	InterPro:IPR000883	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	InterPro		
+UniProtKB	A0A386IAV7	COI		GO:0022900	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191215	GOC		
+UniProtKB	A0A386IAV7	COI		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	UniProt		
+UniProtKB	A0A386IAV7	COI		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616|InterPro:IPR036927	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	InterPro		
+UniProtKB	A0A386IAV7	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0249	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	UniProt		
+UniProtKB	A0A386IAV7	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	UniProt		
+UniProtKB	A0A386IAV7	COI		GO:0070469	GO_REF:0000038	IEA	UniProtKB-KW:KW-0679	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191214	UniProt		
+UniProtKB	A0A386IAV7	COI		GO:1902600	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359091	20191215	GOC		
+UniProtKB	A0A386IEJ5	COI		GO:0004129	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	InterPro		
+UniProtKB	A0A386IEJ5	COI		GO:0004129	GO_REF:0000003	IEA	EC:1.9.3.1	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	UniProt		
+UniProtKB	A0A386IEJ5	COI		GO:0005739	GO_REF:0000038	IEA	UniProtKB-KW:KW-0496	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	UniProt		
+UniProtKB	A0A386IEJ5	COI		GO:0005743	GO_REF:0000038	IEA	UniProtKB-KW:KW-0999	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	UniProt		
+UniProtKB	A0A386IEJ5	COI		GO:0005743	GO_REF:0000040	IEA	UniProtKB-SubCell:SL-0168	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	UniProt		
+UniProtKB	A0A386IEJ5	COI		GO:0006119	GO_REF:0000041	IEA	UniPathway:UPA00705	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	UniProt		
+UniProtKB	A0A386IEJ5	COI		GO:0009060	GO_REF:0000002	IEA	InterPro:IPR000883	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	InterPro		
+UniProtKB	A0A386IEJ5	COI		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	UniProt		
+UniProtKB	A0A386IEJ5	COI		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR000883	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	InterPro		
+UniProtKB	A0A386IEJ5	COI		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	UniProt		
+UniProtKB	A0A386IEJ5	COI		GO:0016491	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	UniProt		
+UniProtKB	A0A386IEJ5	COI		GO:0020037	GO_REF:0000002	IEA	InterPro:IPR000883	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	InterPro		
+UniProtKB	A0A386IEJ5	COI		GO:0022900	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191215	GOC		
+UniProtKB	A0A386IEJ5	COI		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	UniProt		
+UniProtKB	A0A386IEJ5	COI		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616|InterPro:IPR036927	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	InterPro		
+UniProtKB	A0A386IEJ5	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0249	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	UniProt		
+UniProtKB	A0A386IEJ5	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	UniProt		
+UniProtKB	A0A386IEJ5	COI		GO:0070469	GO_REF:0000038	IEA	UniProtKB-KW:KW-0679	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191214	UniProt		
+UniProtKB	A0A386IEJ5	COI		GO:1902600	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359094	20191215	GOC		
+UniProtKB	A0A386IFX5	COI		GO:0004129	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	InterPro		
+UniProtKB	A0A386IFX5	COI		GO:0004129	GO_REF:0000003	IEA	EC:1.9.3.1	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	UniProt		
+UniProtKB	A0A386IFX5	COI		GO:0005739	GO_REF:0000038	IEA	UniProtKB-KW:KW-0496	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	UniProt		
+UniProtKB	A0A386IFX5	COI		GO:0005743	GO_REF:0000038	IEA	UniProtKB-KW:KW-0999	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	UniProt		
+UniProtKB	A0A386IFX5	COI		GO:0005743	GO_REF:0000040	IEA	UniProtKB-SubCell:SL-0168	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	UniProt		
+UniProtKB	A0A386IFX5	COI		GO:0006119	GO_REF:0000041	IEA	UniPathway:UPA00705	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	UniProt		
+UniProtKB	A0A386IFX5	COI		GO:0009060	GO_REF:0000002	IEA	InterPro:IPR000883	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	InterPro		
+UniProtKB	A0A386IFX5	COI		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	UniProt		
+UniProtKB	A0A386IFX5	COI		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR000883	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	InterPro		
+UniProtKB	A0A386IFX5	COI		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	UniProt		
+UniProtKB	A0A386IFX5	COI		GO:0016491	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	UniProt		
+UniProtKB	A0A386IFX5	COI		GO:0020037	GO_REF:0000002	IEA	InterPro:IPR000883	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	InterPro		
+UniProtKB	A0A386IFX5	COI		GO:0022900	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191215	GOC		
+UniProtKB	A0A386IFX5	COI		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	UniProt		
+UniProtKB	A0A386IFX5	COI		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616|InterPro:IPR036927	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	InterPro		
+UniProtKB	A0A386IFX5	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0249	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	UniProt		
+UniProtKB	A0A386IFX5	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	UniProt		
+UniProtKB	A0A386IFX5	COI		GO:0070469	GO_REF:0000038	IEA	UniProtKB-KW:KW-0679	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191214	UniProt		
+UniProtKB	A0A386IFX5	COI		GO:1902600	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359096	20191215	GOC		
+UniProtKB	A0A386IHH5	COI		GO:0004129	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	InterPro		
+UniProtKB	A0A386IHH5	COI		GO:0004129	GO_REF:0000003	IEA	EC:1.9.3.1	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	UniProt		
+UniProtKB	A0A386IHH5	COI		GO:0005739	GO_REF:0000038	IEA	UniProtKB-KW:KW-0496	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	UniProt		
+UniProtKB	A0A386IHH5	COI		GO:0005743	GO_REF:0000038	IEA	UniProtKB-KW:KW-0999	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	UniProt		
+UniProtKB	A0A386IHH5	COI		GO:0005743	GO_REF:0000040	IEA	UniProtKB-SubCell:SL-0168	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	UniProt		
+UniProtKB	A0A386IHH5	COI		GO:0006119	GO_REF:0000041	IEA	UniPathway:UPA00705	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	UniProt		
+UniProtKB	A0A386IHH5	COI		GO:0009060	GO_REF:0000002	IEA	InterPro:IPR000883	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	InterPro		
+UniProtKB	A0A386IHH5	COI		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	UniProt		
+UniProtKB	A0A386IHH5	COI		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR000883	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	InterPro		
+UniProtKB	A0A386IHH5	COI		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	UniProt		
+UniProtKB	A0A386IHH5	COI		GO:0016491	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	UniProt		
+UniProtKB	A0A386IHH5	COI		GO:0020037	GO_REF:0000002	IEA	InterPro:IPR000883	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	InterPro		
+UniProtKB	A0A386IHH5	COI		GO:0022900	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191215	GOC		
+UniProtKB	A0A386IHH5	COI		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	UniProt		
+UniProtKB	A0A386IHH5	COI		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616|InterPro:IPR036927	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	InterPro		
+UniProtKB	A0A386IHH5	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0249	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	UniProt		
+UniProtKB	A0A386IHH5	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	UniProt		
+UniProtKB	A0A386IHH5	COI		GO:0070469	GO_REF:0000038	IEA	UniProtKB-KW:KW-0679	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191214	UniProt		
+UniProtKB	A0A386IHH5	COI		GO:1902600	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359099	20191215	GOC		
+UniProtKB	A0A386IJ38	COI		GO:0004129	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	InterPro		
+UniProtKB	A0A386IJ38	COI		GO:0004129	GO_REF:0000003	IEA	EC:1.9.3.1	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	UniProt		
+UniProtKB	A0A386IJ38	COI		GO:0005739	GO_REF:0000038	IEA	UniProtKB-KW:KW-0496	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	UniProt		
+UniProtKB	A0A386IJ38	COI		GO:0005743	GO_REF:0000038	IEA	UniProtKB-KW:KW-0999	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	UniProt		
+UniProtKB	A0A386IJ38	COI		GO:0005743	GO_REF:0000040	IEA	UniProtKB-SubCell:SL-0168	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	UniProt		
+UniProtKB	A0A386IJ38	COI		GO:0006119	GO_REF:0000041	IEA	UniPathway:UPA00705	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	UniProt		
+UniProtKB	A0A386IJ38	COI		GO:0009060	GO_REF:0000002	IEA	InterPro:IPR000883	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	InterPro		
+UniProtKB	A0A386IJ38	COI		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	UniProt		
+UniProtKB	A0A386IJ38	COI		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR000883	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	InterPro		
+UniProtKB	A0A386IJ38	COI		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	UniProt		
+UniProtKB	A0A386IJ38	COI		GO:0016491	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	UniProt		
+UniProtKB	A0A386IJ38	COI		GO:0020037	GO_REF:0000002	IEA	InterPro:IPR000883	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	InterPro		
+UniProtKB	A0A386IJ38	COI		GO:0022900	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191215	GOC		
+UniProtKB	A0A386IJ38	COI		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	UniProt		
+UniProtKB	A0A386IJ38	COI		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616|InterPro:IPR036927	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	InterPro		
+UniProtKB	A0A386IJ38	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0249	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	UniProt		
+UniProtKB	A0A386IJ38	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	UniProt		
+UniProtKB	A0A386IJ38	COI		GO:0070469	GO_REF:0000038	IEA	UniProtKB-KW:KW-0679	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191214	UniProt		
+UniProtKB	A0A386IJ38	COI		GO:1902600	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359093	20191215	GOC		
+UniProtKB	A0A386IL04	COI		GO:0004129	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	InterPro		
+UniProtKB	A0A386IL04	COI		GO:0004129	GO_REF:0000003	IEA	EC:1.9.3.1	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	UniProt		
+UniProtKB	A0A386IL04	COI		GO:0005739	GO_REF:0000038	IEA	UniProtKB-KW:KW-0496	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	UniProt		
+UniProtKB	A0A386IL04	COI		GO:0005743	GO_REF:0000038	IEA	UniProtKB-KW:KW-0999	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	UniProt		
+UniProtKB	A0A386IL04	COI		GO:0005743	GO_REF:0000040	IEA	UniProtKB-SubCell:SL-0168	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	UniProt		
+UniProtKB	A0A386IL04	COI		GO:0006119	GO_REF:0000041	IEA	UniPathway:UPA00705	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	UniProt		
+UniProtKB	A0A386IL04	COI		GO:0009060	GO_REF:0000002	IEA	InterPro:IPR000883	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	InterPro		
+UniProtKB	A0A386IL04	COI		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	UniProt		
+UniProtKB	A0A386IL04	COI		GO:0016021	GO_REF:0000002	IEA	InterPro:IPR000883	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	InterPro		
+UniProtKB	A0A386IL04	COI		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	UniProt		
+UniProtKB	A0A386IL04	COI		GO:0016491	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	UniProt		
+UniProtKB	A0A386IL04	COI		GO:0020037	GO_REF:0000002	IEA	InterPro:IPR000883	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	InterPro		
+UniProtKB	A0A386IL04	COI		GO:0022900	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191215	GOC		
+UniProtKB	A0A386IL04	COI		GO:0046872	GO_REF:0000038	IEA	UniProtKB-KW:KW-0479	F	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	UniProt		
+UniProtKB	A0A386IL04	COI		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR000883|InterPro:IPR023616|InterPro:IPR036927	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	InterPro		
+UniProtKB	A0A386IL04	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0249	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	UniProt		
+UniProtKB	A0A386IL04	COI		GO:0055114	GO_REF:0000038	IEA	UniProtKB-KW:KW-0560	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	UniProt		
+UniProtKB	A0A386IL04	COI		GO:0070469	GO_REF:0000038	IEA	UniProtKB-KW:KW-0679	C	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191214	UniProt		
+UniProtKB	A0A386IL04	COI		GO:1902600	GO_REF:0000108	IEA	GO:0004129	P	Cytochrome c oxidase subunit 1	COI	protein	taxon:2359095	20191215	GOC		
+UniProtKB	G5EB97	GK1919		GO:0016491	GO_REF:0000002	IEA	InterPro:IPR015590|InterPro:IPR016161|InterPro:IPR016162|InterPro:IPR016163	F	Aldedh domain-containing protein	GK1919	protein	taxon:235909	20191214	InterPro		
+UniProtKB	G5EB97	GK1919		GO:0016620	GO_REF:0000002	IEA	InterPro:IPR016163	F	Aldedh domain-containing protein	GK1919	protein	taxon:235909	20191214	InterPro		
+UniProtKB	G5EB97	GK1919		GO:0055114	GO_REF:0000002	IEA	InterPro:IPR015590|InterPro:IPR016161|InterPro:IPR016162|InterPro:IPR016163	P	Aldedh domain-containing protein	GK1919	protein	taxon:235909	20191214	InterPro		
+UniProtKB	G5EB98	ureH		GO:0016020	GO_REF:0000038	IEA	UniProtKB-KW:KW-0472	C	Urease accessory protein	ureH|GK1925	protein	taxon:235909	20191214	UniProt		
+UniProtKB	G5EB98	ureH		GO:0016021	GO_REF:0000038	IEA	UniProtKB-KW:KW-0812	C	Urease accessory protein	ureH|GK1925	protein	taxon:235909	20191214	UniProt		
+UniProtKB	G5EB99	GK1832		GO:0000155	GO_REF:0000002	IEA	InterPro:IPR003661|InterPro:IPR011620|InterPro:IPR036097	F	Histidine kinase domain-containing protein	GK1832	protein	taxon:235909	20191214	InterPro		
+UniProtKB	G5EB99	GK1832		GO:0000160	GO_REF:0000002	IEA	InterPro:IPR011620	P	Histidine kinase domain-containing protein	GK1832	protein	taxon:235909	20191214	InterPro		
+UniProtKB	G5EB99	GK1832		GO:0000166	GO_REF:0000038	IEA	UniProtKB-KW:KW-0547	F	Histidine kinase domain-containing protein	GK1832	protein	taxon:235909	20191214	UniProt		
+UniProtKB	G5EB99	GK1832		GO:0004673	GO_REF:0000002	IEA	InterPro:IPR011620	F	Histidine kinase domain-containing protein	GK1832	protein	taxon:235909	20191214	InterPro		
+UniProtKB	G5EB99	GK1832		GO:0005524	GO_REF:0000038	IEA	UniProtKB-KW:KW-0067	F	Histidine kinase domain-containing protein	GK1832	protein	taxon:235909	20191214	UniProt		
+UniProtKB	Q5KWY6	comEC		GO:0030420	GO_REF:0000002	IEA	InterPro:IPR004797	P	Lactamase_B domain-containing protein	comEC|GK2515	protein	taxon:235909	20191214	InterPro		
+UniProtKB	Q5KX68	comGC		GO:0030420	GO_REF:0000002	IEA	InterPro:IPR016940	P	ComG operon protein 3	comGC|GK2433	protein	taxon:235909	20191214	InterPro		
+UniProtKB	Q5KX68	comGC		GO:0030420	GO_REF:0000038	IEA	UniProtKB-KW:KW-0178	P	ComG operon protein 3	comGC|GK2433	protein	taxon:235909	20191214	UniProt		
+UniProtKB	Q5KX68	comGC		GO:0030420	GO_REF:0000104	IEA	UniRule:UR000273307	P	ComG operon protein 3	comGC|GK2433	protein	taxon:235909	20191214	UniProt		
+UniProtKB	Q5KX69	GK2432		GO:0030420	GO_REF:0000002	IEA	InterPro:IPR016785	P	Hypothetical conserved protein	GK2432	protein	taxon:235909	20191214	InterPro		
+UniProtKB	Q5KXR5	mecA		GO:0030420	GO_REF:0000038	IEA	UniProtKB-KW:KW-0178	P	Adapter protein MecA	mecA|GK2236	protein	taxon:235909	20191214	UniProt		
+UniProtKB	Q5KXR5	mecA		GO:0045808	GO_REF:0000104	IEA	UniRule:UR000030615	P	Adapter protein MecA	mecA|GK2236	protein	taxon:235909	20191214	UniProt		
+UniProtKB	Q5L1S6	mecA		GO:0030420	GO_REF:0000038	IEA	UniProtKB-KW:KW-0178	P	Adapter protein MecA	mecA|GK0819	protein	taxon:235909	20191214	UniProt		
+UniProtKB	Q5L1S6	mecA		GO:0045808	GO_REF:0000104	IEA	UniRule:UR000030615	P	Adapter protein MecA	mecA|GK0819	protein	taxon:235909	20191214	UniProt		
+UniProtKB	Q5L267	comK		GO:0030420	GO_REF:0000002	IEA	InterPro:IPR010461	P	Competence transcription factor	comK|GK0678	protein	taxon:235909	20191214	InterPro		
+UniProtKB	Q5QL29	GKP38		GO:0030420	GO_REF:0000002	IEA	InterPro:IPR010461	P	Uncharacterized protein	GKP38	protein	taxon:235909	20191214	InterPro		
