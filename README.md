@@ -30,14 +30,14 @@ The `annotation` table acts as the central junction table between proteins and G
 ## Folder Structure
 
 ```text
-Project 1/
+gene_ontology_database/
 │
 ├── input_files/              # Input GAF files; not submitted
 │   ├── Bacillus_subtilis_168-224308.gaf
 │   ├── Escherichia_coli_K-12_ecocyc_83333.gaf
 │   └── ...
 │
-└── STUDENT_ID/
+└── 24037169/                 # my student ID
     ├── app.py                # Main Python application
     ├── result.sql            # Generated schema and insert script
     ├── examples.sql          # Example analytical queries
